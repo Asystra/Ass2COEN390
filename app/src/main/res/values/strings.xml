@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ass2COEN390</string>
+    <string name="profile_id_display">Profile ID Display</string>
+    <string name="profile_name_display">Profile Name Display</string>
+    <string name="by_id">By ID</string>
+    <string name="by_name">By Name</string>
+</resources>
